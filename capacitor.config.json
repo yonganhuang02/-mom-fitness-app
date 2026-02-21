@@ -1,0 +1,8 @@
+{
+  "appId": "com.mom.fitness",
+  "appName": "妈妈减肥打卡",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
