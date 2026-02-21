@@ -1,0 +1,11 @@
+{
+  "name": "妈妈减肥打卡",
+  "short_name": "减肥打卡",
+  "description": "每日体重打卡，记录健康变化",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#faf6f2",
+  "theme_color": "#e8a87c",
+  "orientation": "portrait",
+  "icons": []
+}
